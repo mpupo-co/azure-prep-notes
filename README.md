@@ -1,6 +1,6 @@
 # Azure Certifications Study Notes @ Microsoft
 
-This repository contains my **personal study notes, summaries, and learning materials** for Microsoft Azure certifications, with a focus on **cloud security engineering**.
+This repository contains my **personal study notes, summaries, and learning materials** for Microsoft Azure certifications, with a focus on **cloud engineering**.
 
 The goal of this repo is to:
 - Consolidate my learning in one place
@@ -18,15 +18,6 @@ Foundational knowledge of cloud concepts and Azure services, including:
 - Core Azure services
 - Azure management and Governance
 
-
-### AZ-500 — Azure Security Engineer Associate *(in progress)*
-Role-based certification focused on implementing security controls and protecting Azure environments.
-
-Main topics include:
-- Identity and access management
-- Platform protection
-- Data and application security
-- Security operations and monitoring
 
 ## 2. Study strategy and exam tips
 
